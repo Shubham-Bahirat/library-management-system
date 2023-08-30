@@ -1,0 +1,10 @@
+120,Java Script,R.D.Pandit,1
+140,How_TO_Learn,F.D.Satpute,0
+150,Learn_JQuery,T.K.Gayake,1
+160,Learn_DTS,R.K.MADANE,1
+170,Time Management,Mrs.Iskra Mam,1
+180,Rich Dad Poor Dad,Robert Kiyosaachi,1
+190,Rich Dad Poor Dad ,Mr.Robert Kiyosaach,1
+200,ITI In Tool & Die Maker,S.G.Chitale,1
+144,Shrimadbhagwat,Shri Krishna,1
+551,learn Database System,S.B,1

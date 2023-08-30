@@ -1,0 +1,6 @@
+1299,Shubham,Pune
+1354,Nilesh Bhagwat,10-03-1999,9514202530,Bhagwatwadi
+1310,Shubhas Bahirat,05-05-2001,9075608930,Newasa
+1321,Sagar Bahirat,24-02-2002,9281114012,Shirdi
+1332,Ghanshyaam G,01-05-1995,9514502320,Nagar
+1343,Sharad Wagh,15-02-1995,9852632012,Ghodegaon
